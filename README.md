@@ -112,10 +112,11 @@ https://github.com/Eternalgratis/hello-react-front-end.git
 
  #### Link to frontend repository
 
+    https://github.com/NATASHA-ct/frontend_hello_rails_react.git
 
 #### Link to frontend repository pull request
  
-    https://github.com/NATASHA-ct/frontend_hello_rails_react/pull/1
+    https://github.com/Eternalgratis/hello-react-front-end/pull/1
 
 - Once you have your repository cloned on your machine, feel free to modify it as needed.
     - To add to your own page on the browser link
